@@ -1,0 +1,2 @@
+Primera linea de nuestro archivo txt
+Segunda linea de nuestro archivo txt
